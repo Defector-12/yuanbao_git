@@ -2,6 +2,8 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
+[AI辅助志愿填报-提示词收集-链接直达](https://xka17iu4p5.feishu.cn/docx/Gcj3dK4Cpoj40AxsDRzcZaIinB5?from=from_copylink)
+
 [AI换装/制作假名媛赚钱 comfyui & kontext 图文教程-链接直达](https://xka17iu4p5.feishu.cn/docx/Er8ddVrq7otf7WxU5xIcKSYRnec?from=from_copylink)
 
 [如何制作AI预制视频？图文教程-链接直达](https://xka17iu4p5.feishu.cn/docx/BUBDdOPjToShpKxHdsHcdGuEntg?from=from_copylink)
